@@ -7,7 +7,7 @@ const Hero = () => {
         <div className=''>
             <h3 className='text-3xl font-bold'>Hi, I am ZAHID HOSEN</h3>
             <p className='text-semibold my-3'>I am a Front END Developer</p>
-            <button className='btn'>
+            <button className='btn border border-purple-500'>
                 <a href=""download="resume">Download Resume</a>
             </button>
 

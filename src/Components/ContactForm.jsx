@@ -2,7 +2,7 @@ import React from 'react';
 
 const ContactForm = () => {
     return (
-         <div className="card border w-full max-w-sm shrink-0 shadow-2xl">
+         <div className="card border w-full max-w-sm shrink-0 shadow-2xl border-purple-500">
         <div className="card-body">
           <fieldset className="fieldset">
             <label className="fieldset-label">Name</label>

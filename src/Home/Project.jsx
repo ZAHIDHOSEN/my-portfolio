@@ -31,10 +31,10 @@ const Project = () => {
                </div>
                <div className='flex gap-8'>
                 <a href="https://github.com/ZAHIDHOSEN/Blood-donation-website-client">
-                <button className='btn'>github link</button>
+                <button className='btn border border-purple-500'>github link</button>
                 </a>
                 <a href="https://blood-donation-website-e55bf.web.app">
-                    <button className='btn'>Live link</button>
+                    <button className='btn border border-purple-500'>Live link</button>
                 </a>
                </div>
                 </div>
@@ -62,10 +62,10 @@ const Project = () => {
                </div>
                <div className='flex gap-8'>
                 <a href="https://github.com/ZAHIDHOSEN/online-group-study-web-application">
-                <button className='btn'>github link</button>
+                <button className='btn border border-purple-500'>github link</button>
                 </a>
                 <a href="https://assignment-11-client-f745e.web.app">
-                    <button className='btn'>Live link</button>
+                    <button className='btn border border-purple-500'>Live link</button>
                 </a>
                </div>
                 </div>
@@ -94,10 +94,10 @@ const Project = () => {
                </div>
                <div className='flex gap-8'>
                 <a href="https://github.com/ZAHIDHOSEN/online-group-study-web-application">
-                <button className='btn'>github link</button>
+                <button className='btn border border-purple-500'>github link</button>
                 </a>
                 <a href="https://assignment-11-client-f745e.web.app">
-                    <button className='btn'>Live link</button>
+                    <button className='btn border border-purple-500'>Live link</button>
                 </a>
                </div>
                 </div>
