@@ -12,7 +12,7 @@ const ContactForm = () => {
     console.log(formData);
 
     try{
-      const data= await axios.post(`https://my-portfolio-server-gckh1q7ih-zahid123s-projects.vercel.app/contact`,formData)
+      const data= await axios.post(`https://my-portfolio-server-gilt.vercel.app/contact`,formData)
       console.log(data.data);
 
     }
