@@ -11,7 +11,7 @@ const Navbar = () => {
    <li> <Link to={`/contact`}>Contact</Link></li>
     </>
     return (
-        <div className="navbar bg-purple-500 sticky top-0">
+        <div className="navbar bg-purple-500 sticky top-0 z-50">
         <div className="navbar-start">
           <div className="dropdown">
             <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">

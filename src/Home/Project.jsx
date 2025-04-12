@@ -10,7 +10,7 @@ const Project = () => {
     return (
         <div className=''>
             <h3 className='text-center font-bold text-3xl mb-10'>Projects</h3>
-            <div className='lg:flex md:flex gap-14 items-center'>
+            <div className='border border-purple-500 rounded-xl p-2 flex flex-col lg:flex-row md:flex-row  gap-14 items-center'>
                 <div>
                     <img className='h-84 w-96 rounded-2xl' src={project1} alt="" />
                 </div>
@@ -41,7 +41,7 @@ const Project = () => {
 
             </div>
             {/* second project */}
-            <div className='lg:flex md:flex  items-center gap-14 mt-20'>
+            <div className='border border-purple-500 rounded-xl p-2 flex flex-col lg:flex-row md:flex-row  gap-14 items-center mt-20'>
                 <div>
                     <img className='h-84 w-96 rounded-2xl' src={project2} alt="" />
                 </div>
@@ -72,7 +72,7 @@ const Project = () => {
 
             </div>
             {/* last project */}
-            <div className='lg:flex md:flex  items-center gap-14 mt-20'>
+            <div className='border border-purple-500 rounded-xl p-2 flex flex-col lg:flex-row md:flex-row  gap-14 items-center mt-20'>
                 <div>
                     <img className='h-84 w-96 rounded-2xl' src={project3} alt="" />
                 </div>
