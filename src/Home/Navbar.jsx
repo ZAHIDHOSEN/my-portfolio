@@ -11,7 +11,7 @@ const Navbar = () => {
    <li> <Link to={`/contact`}>Contact</Link></li>
     </>
     return (
-        <div className="navbar bg-purple-500 sticky top-0 z-50">
+        <div className="navbar bg-purple-500 text-white sticky top-0 z-50">
         <div className="navbar-start">
           <div className="dropdown">
             <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -19,7 +19,7 @@ const Navbar = () => {
             </div>
             <ul
               tabIndex={0}
-              className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
+              className="menu menu-sm dropdown-content bg-purple-500 text-white rounded-box z-1 mt-3 w-52 p-2 shadow">
            {links}
             </ul>
           </div>
@@ -31,7 +31,7 @@ const Navbar = () => {
           </ul>
         </div>
         <div className="navbar-end">
-         <a className='btn' href=""download={`resume`}>Resume</a>
+         <a className='btn' href="/zahid-resume.pdf"download={`resume`}>Resume</a>
         </div>
       </div>
     );

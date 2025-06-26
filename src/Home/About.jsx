@@ -6,7 +6,7 @@ const About = () => {
             <h2 className='text-center font-bold text-3xl mb-5 text-white'>About me</h2>
 
             <div>
-                <p className='text-semibold font-stretch-50% text-gray-100'>My name is ZAHID HOSEN . I’m a passionate Junior Web Developer with a strong foundation in HTML, CSS, Tailwind CSS, JavaScript,
+                <p className='font-semibold text-white'>My name is ZAHID HOSEN . I’m a passionate Junior Web Developer with a strong foundation in HTML, CSS, Tailwind CSS, JavaScript,
                      React, Firebase, and MongoDB. I love building clean, user-friendly, and responsive web applications that enhance user experiences.
 
 I have experience working on projects involving authentication, database management, and modern UI/UX design. I thrive in collaborative

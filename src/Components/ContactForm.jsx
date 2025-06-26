@@ -21,7 +21,7 @@ const ContactForm = () => {
     }
   }
     return (
-         <div className="card border w-full max-w-sm shrink-0 shadow-2xl border-purple-500">
+         <div className="card border w-full text-white max-w-sm shrink-0 shadow-2xl border-purple-500">
         <div className="card-body">
           <form  onSubmit={handleSubmit} >
           <fieldset  className="fieldset">

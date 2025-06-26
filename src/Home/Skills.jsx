@@ -36,7 +36,7 @@ const isLargeScreen = useMediaQuery("(min-width: 1024px)");
 
     return (
         <div className='mb-20'>
-            <h3 className='text-3xl font-bold text-center mb-10'>Skills</h3>
+            <h3 className='text-3xl font-bold text-center mb-10 text-white'>Skills</h3>
             
             <div className='relative overflow-hidden border border-purple-500 py-4'>
                 <motion.div
